@@ -13,6 +13,10 @@ https://theconversation.com/how-australia-can-boost-the-production-of-grains-whi
 Nitrogen pollution is a very real risk
 https://reneweconomy.com.au/why-green-ammonia-might-not-be-that-green/
 
+Can these plants even be built in a way that isn't destructive?
+
+Ammonia shipping is a little nasty
+
 
 # Haber-Bosch Process
 
@@ -25,3 +29,13 @@ https://reneweconomy.com.au/why-green-ammonia-might-not-be-that-green/
 
 https://fertilizer.org.au/about-fertiliser/the-fertiliser-industry/fertiliser-production
 https://fertilizer.org.au/about-fertiliser/the-fertiliser-industry/the-global-fertiliser-market
+
+
+# Transport
+
+Need to generate, but also need to export. Port infrastructure for pulling coal might be able to play a role.
+
+# Other work in this space
+
+https://www.ammoniaenergy.org/articles/three-new-australian-ammonia-production-projects/
+

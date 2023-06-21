@@ -8,6 +8,8 @@ Energy transition will mean certain communities will have their historical livel
 
 ![[coal-aus.png]]
 
+![[coal-ports.png]]
+
 # Processes to investigate
 
 * [[Ammonia]]
